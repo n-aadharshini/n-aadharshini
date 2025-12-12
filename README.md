@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aadharshini Dharshini
+## 👋 Hi, I'm Aadharshini 
 💻 3rd-year Information Technology Student | Machine Learning & Web Development Enthusiast
 
 I’m passionate about data analytics, web apps, and AI-powered projects. I love exploring how technology can make life easier, smarter, and more connected.
